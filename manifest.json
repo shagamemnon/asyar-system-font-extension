@@ -1,7 +1,7 @@
 {
   "id": "io.franktaylor.system-font",
   "name": "System Font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uses the macOS system font (San Francisco) instead of Satoshi",
   "author": "Frank Taylor",
   "type": "theme",
